@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoesTooMuchWebApp", "DoesTooMuchWebApp\DoesTooMuchWebApp.csproj", "{23B3A957-C42B-40F9-A23F-EA56F88655D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Support", "Web.Support\Web.Support.csproj", "{8A3E345C-07CB-45D9-B7D6-9365C44AE07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaddzeit.Kata.Tests.Unit", "Gaddzeit.Kata.Tests.Unit\Gaddzeit.Kata.Tests.Unit.csproj", "{899BA03D-010D-4C8D-A4C5-73B2F31AF275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B3A957-C42B-40F9-A23F-EA56F88655D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B3A957-C42B-40F9-A23F-EA56F88655D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B3A957-C42B-40F9-A23F-EA56F88655D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B3A957-C42B-40F9-A23F-EA56F88655D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3E345C-07CB-45D9-B7D6-9365C44AE07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3E345C-07CB-45D9-B7D6-9365C44AE07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3E345C-07CB-45D9-B7D6-9365C44AE07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3E345C-07CB-45D9-B7D6-9365C44AE07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899BA03D-010D-4C8D-A4C5-73B2F31AF275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899BA03D-010D-4C8D-A4C5-73B2F31AF275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899BA03D-010D-4C8D-A4C5-73B2F31AF275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899BA03D-010D-4C8D-A4C5-73B2F31AF275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
